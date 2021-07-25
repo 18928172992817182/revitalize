@@ -12,11 +12,11 @@ The reason I am going for flutter is because despite Typescript adding convenien
 
 ## Data 
 
-Google Fit has a quite nice extensive API. It covers more than the actual Google fit app exposes. Which is odd but whatever. What is even cooler is that that the Google Fit platform supports custom data points. 
+Google Fit has a quite nice extensive API. It covers more than the actual Google fit app exposes. Which is odd but whatever. What is even cooler is that the Google Fit platform supports custom data points. 
 
 So, lets just say I want to record how long I can hold my breath as part of the revitalization process. Then I can just add those data points and see how I improve my ability to hold my breath for freediving.
 
-All our data points will live under the app's package name.
+All our data points will live under the app's package name. However, do note that this data is only available for this app.
 
 ## Access
 

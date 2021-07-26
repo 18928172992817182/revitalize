@@ -4,11 +4,17 @@ An app that integrates with the Google fit API and exposes a web interface to in
 
 Hobby project used as a training exercise to explore new technologies.
 
+## Background
+
+When my phone broke there was no way for me to interact with Google Fit. I found that annoying.
+
+The reason I am going for Flutter is because despite Typescript adding convenience to javascript, it is still just javascript. Flutter uses Dart. Why should we explore Dart when we already have javascript? I simply got interested after having seen Lars Bak do a talk about the history of web browser performance and development for the future which you can find here https://www.youtube.com/watch?v=m4EB_k57g-I.
+
 ## Getting it to run
 
-We will be using flutter: https://flutter.dev/docs/get-started/install
+Follow the standard setup instruction from Flutter: https://flutter.dev/docs/get-started/install
 
-The reason I am going for flutter is because despite Typescript adding convenience to javascript, it is still just javascript. Flutter uses Dart. Why should we explore Dart when we already have javascript? I simply got interested after having seen Lars Bak do a talk about the history of web browser performance and development for the future which you can find here https://www.youtube.com/watch?v=m4EB_k57g-I.
+I am using IntelliJ IDEA Ultimate but use any of the supported editors: https://flutter.dev/docs/get-started/editor
 
 ## Data 
 

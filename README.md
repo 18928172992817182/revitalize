@@ -28,3 +28,9 @@ All our data points will live under the app's package name. However, do note tha
 
 All access uses an OAuth 2.0 client ID generated from your Google account.
 
+## Integration
+
+We are using the REST API of Google fit: https://developers.google.com/fit/rest/v1/get-started
+
+
+

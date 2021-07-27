@@ -24,6 +24,9 @@ So, lets just say I want to record how long I can hold my breath as part of the 
 
 All our data points will live under the app's package name. However, do note that this data is only available for this app.
 
+![Image of Yaktocat](https://developers.google.com/fit/images/arch-gen.png)
+
+
 ## Access
 
 All access uses an OAuth 2.0 client ID generated from your Google account.
